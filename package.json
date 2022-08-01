@@ -4,7 +4,7 @@
 	"main": "index.js",
 	"license": "MIT",
 	"scripts": {
-		"start": "node build/index.js",
+		"start": "node index.js",
 		"tsc": "tsc",
 		"dev": "ts-node-dev src/index.ts"
 	},
